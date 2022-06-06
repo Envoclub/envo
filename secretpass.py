@@ -1,0 +1,1 @@
+django_secret_key = "a^4#$mn((w*9vndaf!qdx$hj(2#t9@p41x*m*@yf0g@^5=j&*("
